@@ -1,4 +1,3 @@
-layout_spectrum: 0.8506822681520134
 typography_spectrum: 0.8045498705469072
 color:
   brandStrength: 0.9984967776108533
@@ -11,4 +10,9 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.8506822681520134
+author:
+  name: ''
+  email: ''
 name: Nanna Suu
+title: In a country living on the cultures of others.
